@@ -1,1 +1,3 @@
 # properly-util-js
+
+**DEPRECATED**
